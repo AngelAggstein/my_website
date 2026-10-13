@@ -3,9 +3,6 @@
 
 <head>   
           
-<title>
-MyWebsite
-</title>
 
 <html>
 <body>
